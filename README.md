@@ -1,2 +1,2 @@
 # MyUnityGame
-Put stuff here
+This game is a from a tutorial on how to use unity, it is not mine.
